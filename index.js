@@ -1,3 +1,3 @@
 console.error(FUCK!)
-console.log(FUCK!)
-console.warn(FUCK!)
+console.log(hello, loggers)
+console.warn(oh no, Minnie!)
