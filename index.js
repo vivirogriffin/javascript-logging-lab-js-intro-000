@@ -1,2 +1,2 @@
 console.error(warn!)
-console.log(call me, loggers)
+console.log('call me, loggers')
